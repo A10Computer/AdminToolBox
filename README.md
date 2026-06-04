@@ -2,8 +2,8 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.1-2f80ed)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?logo=powershell&logoColor=white)
+![PowerShell 7](https://img.shields.io/badge/PowerShell-7-5391FE?logo=powershell&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?logo=windows11&logoColor=white)
-![WinForms](https://img.shields.io/badge/UI-WinForms-512bd4?logo=dotnet&logoColor=white)
 ![Adminrechte](https://img.shields.io/badge/Adminrechte-bei%20%C3%84nderungen-f59e0b)
 ![Lokale Logs](https://img.shields.io/badge/Logs-lokal-16a34a)
 ![Use at your own risk](https://img.shields.io/badge/use%20at%20your%20own%20risk-no%20warranty-b91c1c)
