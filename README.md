@@ -1,6 +1,6 @@
 # Alpha10 Admin Toolbox Pro
 
-![Version](https://img.shields.io/badge/version-1.0.1-2f80ed)
+![Version](https://img.shields.io/badge/version-2.0Final-2f80ed)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?logo=powershell&logoColor=white)
 ![PowerShell 7](https://img.shields.io/badge/PowerShell-7-5391FE?logo=powershell&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?logo=windows11&logoColor=white)
@@ -9,10 +9,10 @@
 ![Use at your own risk](https://img.shields.io/badge/use%20at%20your%20own%20risk-no%20warranty-b91c1c)
 
 
-Version 1.0.1 - Umfangreiche Admin-Konsole für Windows 10/11 - Favoriten per Rechtsklick. Kostenlose Nutzung auf eigenes Risiko.
+Version 2.0 Final - Umfangreiche Admin-Konsole für Windows 10/11 - Favoriten per Rechtsklick. Kostenlose Nutzung auf eigenes Risiko.
 
 
-## Enthaltene Bereiche
+## Auswahl enthaltene Bereiche
 
 - Dashboard mit erweiterter Systemübersicht, Health Score/Systemampel, BIOS-Datum, Reboot-Pending-Status, Lizenzstatus, Berichtsexport, Kurzbericht, Datenträgerstatus, PnP-Gerätefehlern, Druckern, Systemtools, Reboot-/Shutdown-Timer und Shutdown-Timer-Abbruch
 - Wartung mit Cleanup-Potenzial, Temp-Bereinigung, Papierkorb, Windows-Update-Cache, SFC, DISM, Komponentenspeicher, Laufwerksoptimierung, Speicherdiagnose, Check Disk, Energiebericht und Wiederherstellungspunkt
@@ -27,8 +27,8 @@ Version 1.0.1 - Umfangreiche Admin-Konsole für Windows 10/11 - Favoriten per Re
 
 Das Programm muss nicht als Administrator gestartet werden. Viele reine Anzeigen laufen ohne Adminrechte. Ändernde Funktionen zeigen eine Bestätigung und verlangen Administratorrechte. Logs werden im Ordner `logs`, Systemberichte im Ordner `logs\reports` abgelegt.
 
-Kostenlose Nutzung auf eigenes Risiko!
+Kostenlose Nutzung auf eigenes Risiko - Kein Haftung für falsche Daten oder schäden am System ! ! !
 
-.zip Datei enthält AdminTBP.exe + Readme
+.zip Datei enthält AdminToolBox.exe + Readme
 
 
