@@ -7,11 +7,8 @@
 `Version 2.6 Final` · `Windows 10 / 11` · `32 + 64 Bit` · `DE / EN` · `Hell / Dunkel`
 
 </div>
----
-## 
 
-| Reiter | | Was drinsteckt |
-|---|--:|---|
+## | Reiter | | Was drinsteckt |
 | **Dashboard** | 20 | Systemübersicht, Health Score, Supportstatus, Warncheck, Lizenz · Berichte & Diagnose-ZIP |
 | **Wartung** | 26 | DISM, SFC, Check Disk · Bereinigung, Update-Reparatur, Wiederherstellungspunkt, Registry-Backup |
 | **Netzwerk** | 38 | Diagnoseprofil, Ping, Traceroute, Ports, MTU · DNS, DHCP, VPN, WLAN, SMB, Domäne |
