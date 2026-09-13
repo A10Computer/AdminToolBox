@@ -1,5 +1,4 @@
 <div align="center">
-
 # 🛠️ Alpha10 Admin Toolbox Pro
 
 **166 Windows-Admin-Werkzeuge. Eine Oberfläche. Kein Installer.**
