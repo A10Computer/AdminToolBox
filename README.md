@@ -83,6 +83,4 @@ Some functions change the firewall, registry, services and accounts. **Use at yo
 
 <div align="center">
 
-© Alpha10.de · alle Rechte vorbehalten · All rights reserved
-
 </div>
